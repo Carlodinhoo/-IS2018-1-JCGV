@@ -1,3 +1,3 @@
-# -IS2018-1-JCMS
-# Juan Carlos Montero Santiago
-415122599
+# -IS2018-1-JCGV
+# Juan Carlos Garduño Vargas
+311290859
